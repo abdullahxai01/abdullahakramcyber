@@ -116,6 +116,8 @@ Collection of DSA implementations in C++.
 
 ---
 
+# 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullahxai01&theme=github_dark" />
 </p>

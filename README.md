@@ -1,49 +1,157 @@
-## Hi there 👋
+<div align="center">
 
-I'm **Muhammad Abdullah Akram**, a Computer Science student.
+# Muhammad Abdullah Akram
 
-I enjoy building software, exploring Artificial Intelligence, and solving real-world problems through code.
+## AI Engineer
 
-I'm currently focused on **.NET, C#, Python, AI/ML, Linux, Cisco Networking, and Assembly Language**, while working toward becoming an AI Engineer.
+💻 AI Engineer • 🇵🇰 Islamabad, Pakistan
 
-## 🚀 What I'm Working On
+Building AI-powered applications with Python and modern AI frameworks.
 
-- 🤖 Learning Artificial Intelligence & Machine Learning
-- 💻 Building .NET and Python projects
-- 🌐 Improving networking skills with Cisco
-- 📚 Strengthening Data Structures & Algorithms
-- 🔍 Exploring Cybersecurity concepts
+</div>
 
-## 🛠️ Tech Stack
+---
 
-- C#
-- .NET
-- Python
-- Artificial Intelligence
-- Machine Learning
-- Linux
-- Cisco Networking
-- Assembly Language
-- SQL
-- Git & GitHub
+## ✨ About Me
 
-## 🎯 Goals
+- 🚀 Passionate about Artificial Intelligence and Machine Learning.
+- 🤖 Currently learning **PyTorch**, **Transformers**, **Hugging Face**, **FastAPI**, and **LangChain**.
+- 🎓 Computer Science Student at **Air University**.
+- 💡 Interested in building scalable AI applications and solving real-world problems.
+- 🌱 Always learning and improving.
 
-- Build impactful AI applications
-- Contribute to Open Source
-- Grow as a Software Developer
-- Land an AI or Software Engineering Internship
+---
 
-## 🌟 Fun Facts
+## 🌐 Connect With Me
 
-- 💡 I enjoy learning new technologies every day.
-- 🧩 I love solving programming challenges.
-- 🚀 Always working on improving my skills.
+<p align="left">
+<a href="https://www.linkedin.com/in/abdullahakram01">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 📫 Let's Connect
+<a href="mailto:abdullah.akram07003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-- 💼 LinkedIn: https://www.linkedin.com/in/abdullahakram01wQ
-- 💻 Fiverr: https://www.fiverr.com/s/2KYv9
-- 📧 Email: abdullah.akram07003@gmail.com
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-> *"Keep learning. Keep building. Keep improving."* 🚀
+---
+
+# 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=cs"/>
+
+<img src="https://skillicons.dev/icons?i=dotnet"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+</p>
+
+### Currently Learning
+
+- PyTorch
+- Hugging Face
+- Transformers
+- LangChain
+- Generative AI
+
+---
+
+# 📂 Featured Projects
+
+### 🤖 Image Captioning AI
+
+Transformer-based image captioning application built with Python.
+
+---
+
+### 🌐 Smart Office IoT Network
+
+Enterprise Cisco Packet Tracer network with
+
+- VLAN
+- Inter-VLAN Routing
+- DHCP
+- DNS
+- OSPF
+
+---
+
+### 📚 Library Management System
+
+Desktop application using OOP principles and CRUD operations.
+
+---
+
+### 🧮 Data Structures & Algorithms
+
+Collection of DSA implementations in C++.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting!
+
+Always learning • Always building 🚀
+
+</div>

@@ -132,7 +132,7 @@ Collection of DSA implementations in C++.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=abdullahxai01&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -142,8 +142,8 @@ Collection of DSA implementations in C++.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahxai01&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
